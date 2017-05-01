@@ -1,3 +1,5 @@
+# This is an online training on machine learning (introducing).
+
 #!/usr/bin/python
 
 # Load libraries
@@ -25,10 +27,6 @@ print(dataset.shape)
 
 # head
 print(dataset.head(20))
-
-
-# descriptions
-print(dataset.describe())    
 
 # descriptions
 print(dataset.describe())
